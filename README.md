@@ -9,4 +9,4 @@ I'm a backend-focused developer currently building data ingestion pipelines and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 - Focus: backend infrastructure, data analysis, and clean system architecture.
-- Learning: deep-diving into backend architecture, networking, and system design patterns through hands-on projects and backend courses.
+- Learning: deep-diving into backend architecture, networking, and system design patterns through hands-on projects and continued learning.
