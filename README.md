@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm a backend-focused developer currently building data ingestion pipelines and backend services with Go, Python, and PostgreSQL.
+I'm a software developer building data ingestion pipelines, robust APIs, and scalable infrastructure using Go, Python, and PostgreSQL.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,5 +8,5 @@ I'm a backend-focused developer currently building data ingestion pipelines and 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- Focus: backend infrastructure, data analysis, and clean system architecture.
-- Learning: deep-diving into backend architecture, networking, and system design patterns through hands-on projects and continued learning.
+- **Focus:** Core infrastructure, data systems, and clean system architecture.
+- **Interests:** Deep-diving into distributed networking, database internals, and software design patterns through hands-on project execution.
